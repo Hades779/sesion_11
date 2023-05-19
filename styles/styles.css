@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+}
+
+.jj{
+    background: none;
+    height:300px;
+    width:50%;
+    border-radius: 2vh;
+    box-shadow: 2px 2px 10px 10px;
+}
+
